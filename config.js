@@ -1,8 +1,8 @@
 /**
-   * Create By Dika Ardnt.
-   * Recode By Naze Dev
-   * Contact Me on wa.me/6282113821188
-   * Follow https://github.com/nazedev
+   * Create By Bilal.
+   * Recode By Milad
+   * Contact Me on wa.me/989364509021
+   * Follow https://github.com/Bilal4509021
 */
 
 const fs = require('fs')
@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
+global.owner = ['989363079021']
 global.ownernomer = "6285875158363"
 global.premium = ['6285875158363']
 global.packname = 'Sticker By'
-global.author = 'Naze Dev'
+global.author = 'BILAL:9021'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
